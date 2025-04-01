@@ -1,0 +1,2 @@
+Enabled GUI Tools for Automatic speech Recognition.
+Added background noise reduction.
