@@ -1,2 +1,5 @@
-Enabled GUI Tools for Automatic speech Recognition.
-Added background noise reduction.
+Future Improvements :
+
+- Add support for offline recognition (e.g., Whisper).
+- Integrate with other speech APIs.
+- Enhance GUI with recording levels, export options.
