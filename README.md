@@ -27,29 +27,40 @@ Install dependencies using pip:
 
 ```bash
 pip install sounddevice numpy speechrecognition pyqt6 pyqtgraph
+```
 
-How to Run
+### Choose your own ways to run the files:
 
-GUI App (main3.py)
-- python main3.py
+1. GUI App (main3.py)
+```bash
+python main3.py
+```
 
-Test Audio Input/Output (test.py)
-- python test.py
+2. Test Audio Input/Output (test.py)
+```bash
+python test.py
+```
 
-Continuous CLI-based Recognition (main2.py)
-- python main2.py
+3. Continuous CLI-based Recognition (main2.py)
+```bash
+python main2.py
+```
 
-One-shot Recognition (main.py)
-- python main.py
+4.. One-shot Recognition (main.py)
+```
+python main.py
+```
+---
 
-Notes
+Notes:
 Uses Google Web Speech API (internet required).
 
 No API key needed.
 
 Dark mode is pre-applied for better visual aesthetics.
 
-```
+---
+
 
 ## Future Improvements
 
