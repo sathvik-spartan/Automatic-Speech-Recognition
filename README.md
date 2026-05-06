@@ -58,3 +58,23 @@ Dark mode is pre-applied for better visual aesthetics.
 - Integrate with other speech APIs.
 
 - Enhance GUI with recording levels, export options.
+
+---
+
+## Contribution
+
+Contributions are most welcome! 
+
+If you'd like to improve this project, feel free to:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Commit your updates
+- Submit a pull request
+
+> Please make sure your code follows clean coding practices and includes proper documentation where necessary.
+
+> For major changes, open an issue first to discuss what you would like to change.
+
+Thank you for contributing to this Automatic Speech Recognition project!
